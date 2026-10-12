@@ -1,0 +1,11 @@
+.task {
+    margin: 8px 0;
+}
+
+.task button {
+    margin-left: 8px;
+}
+
+.completed span {
+    text-decoration: line-through;
+}
